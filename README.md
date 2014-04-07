@@ -2,7 +2,7 @@
 
 *OAuth made easy*
 
-Copyright (C) 2013-2014 A Kazim <theakman2@hotmail.com>
+Copyright (C) 2013-2014 A Kazim &lt;theakman2@hotmail.com&gt;
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
