@@ -1,0 +1,16 @@
+{
+	"name":"theakman2/PromiseOAuth",
+	"description":"OAuth made easy",
+	"version":"0.9.0-beta",
+	"keywords":[
+		"oauth",
+		"promiseoauth",
+		"facebook",
+		"twitter"
+	],
+	"license":"GPL-3.0+",
+	"authors":[{
+		"name":"A Kazim",
+		"email":"theakman2@hotmail.com"
+	}]
+}
